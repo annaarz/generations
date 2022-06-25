@@ -1,0 +1,54 @@
+
+
+
+
+body.serifs {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+body.serifs .background {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body.serifs label input:focus, body.serifs label textarea:focus {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body.serifs p, body.serifs h1, body.serifs h2, body.serifs a, body.serifs label, body.serifs input::placeholder, body.serifs textarea::placeholder {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body.serifs form label input, body.serifs textarea {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body.serifs .problem-not-found .custom-checkbox label {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body.serifs .data .statement {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body.serifs footer {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body.serifs .Notunderstand, body.serifs .violent, body.serifs .technologies, body.serifs .adaptation {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+body.serifs form label {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body.serifs form input {
+   font-family: 'Times New Roman', Times, serif;
+}
+
+body.serifs .eye, body.serifs .eyef {
+    font-family: 'Times New Roman', Times, serif;
+}
